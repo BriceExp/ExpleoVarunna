@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ASCII"?>
+<configuration:ProrToolExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0">
+  <specViewConfigurations>
+    <specification href="GeneralSpecification.reqif#_8n2n6jqpEe-kCqS742pUeA"/>
+    <columns label="Req-ID" width="188"/>
+    <columns label="Description" width="415"/>
+    <columns label="Rationale" width="258"/>
+    <columns label="Date" width="154"/>
+    <columns label="Priority" width="179"/>
+    <columns label="Risk" width="45"/>
+    <leftHeaderColumn label="Lead Header Column" width="30"/>
+  </specViewConfigurations>
+  <specViewConfigurations>
+    <specification href="GeneralSpecification.reqif#_RbGXoEAsEe-AE848_rU-hQ"/>
+    <columns label="Req-ID" width="193"/>
+    <columns label="Description" width="287"/>
+    <columns label="Rationale" width="254"/>
+    <columns label="Date" width="150"/>
+    <columns label="Priority" width="100"/>
+    <columns label="Risk" width="54"/>
+    <leftHeaderColumn label="Lead Header Column" width="30"/>
+  </specViewConfigurations>
+  <specViewConfigurations>
+    <specification href="GeneralSpecification.reqif#_ybAuQEAsEe-AE848_rU-hQ"/>
+    <columns label="Req-ID" width="193"/>
+    <columns label="Description" width="219"/>
+    <columns label="Rationale" width="249"/>
+    <columns label="Date" width="152"/>
+    <columns label="Priority" width="124"/>
+    <columns label="Risk" width="60"/>
+    <leftHeaderColumn label="Lead Header Column" width="30"/>
+  </specViewConfigurations>
+  <specViewConfigurations>
+    <specification href="GeneralSpecification.reqif#_JnI2MEprEe-y5OMutzi6aA"/>
+    <columns label="Req-ID" width="219"/>
+    <columns label="Description" width="419"/>
+    <columns label="Rationale" width="414"/>
+    <leftHeaderColumn label="Lead Header Column" width="30"/>
+  </specViewConfigurations>
+  <generalConfiguration>
+    <labelConfiguration>
+      <defaultLabel>Req-ID</defaultLabel>
+      <defaultLabel>Description</defaultLabel>
+    </labelConfiguration>
+  </generalConfiguration>
+  <presentationConfigurations/>
+</configuration:ProrToolExtension>
