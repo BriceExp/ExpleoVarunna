@@ -2311,7 +2311,7 @@
                 <ATTRIBUTE-DEFINITION-STRING-REF>_Xp6qkDqrEe-kCqS742pUeA</ATTRIBUTE-DEFINITION-STRING-REF>
               </DEFINITION>
             </ATTRIBUTE-VALUE-STRING>
-            <ATTRIBUTE-VALUE-STRING THE-VALUE="The Battery shall generate more than 1.5 MW.">
+            <ATTRIBUTE-VALUE-STRING THE-VALUE="The Battery shall generate more than 1.5 MW for 250s.">
               <DEFINITION>
                 <ATTRIBUTE-DEFINITION-STRING-REF>_8n2n5TqpEe-kCqS742pUeA</ATTRIBUTE-DEFINITION-STRING-REF>
               </DEFINITION>
